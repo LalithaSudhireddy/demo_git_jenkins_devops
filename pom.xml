@@ -87,9 +87,9 @@
 				<version>3.0.0-M8</version>
 				<configuration>
 					<suiteXmlFiles>
-						<!-- 	<suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile> -->
+						<suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile>
 						<!-- providing the xml file at runtime-->
-						<suiteXmlFile>src/test/resources/${fileName}</suiteXmlFile>
+						<!-- <suiteXmlFile>src/test/resources/${fileName}</suiteXmlFile> -->
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>

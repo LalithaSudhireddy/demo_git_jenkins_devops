@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-02T11:00:29 EST" name="Default suite" finished-at="2023-02-02T11:00:34 EST" duration-ms="5528">
+  <suite started-at="2023-02-15T17:29:46 EST" name="Suite" finished-at="2023-02-15T17:29:52 EST" duration-ms="5352">
     <groups>
     </groups>
-    <test started-at="2023-02-02T11:00:29 EST" name="Default test" finished-at="2023-02-02T11:00:34 EST" duration-ms="5528">
+    <test started-at="2023-02-15T17:29:46 EST" name="Test" finished-at="2023-02-15T17:29:52 EST" duration-ms="5352">
       <class name="orangehrm.LoginTest">
-        <test-method signature="doLogin()[pri:0, instance:orangehrm.LoginTest@3315d2d7]" started-at="2023-02-02T11:00:29 EST" name="doLogin" finished-at="2023-02-02T11:00:34 EST" duration-ms="5508" status="PASS">
+        <test-method signature="doLogin()[pri:0, instance:orangehrm.LoginTest@3315d2d7]" started-at="2023-02-15T17:29:46 EST" name="doLogin" finished-at="2023-02-15T17:29:52 EST" duration-ms="5327" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doLogin -->
       </class> <!-- orangehrm.LoginTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
